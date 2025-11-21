@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![Authentic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Authentic-1412&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Authentic-1412)
+
+### Favorite
+
 <!--
 **Authentic-1412/Authentic-1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
