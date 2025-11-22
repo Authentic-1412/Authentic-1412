@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Authentic-1412)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 
 
 ### Favorite
