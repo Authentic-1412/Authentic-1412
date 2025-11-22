@@ -8,7 +8,11 @@
 
 
 ### Favorite
+- **具身智能**
+## 🔭 “就让我们教会他们如何去爱，而他们提醒我们，为何出发。”
 
+### Talking With ME!
+- 3074384039@qq.com
 <!--
 **Authentic-1412/Authentic-1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
