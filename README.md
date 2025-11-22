@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ![Authentic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Authentic-1412&show_icons=true&theme=shadow_blue)
 
@@ -7,11 +7,11 @@
 
 
 
-## Favorite
+# Favorite
 - **具身智能**
-### 🔭 “就让我们教会他们如何去爱，而他们提醒我们，为何出发。”
+### 🔭 “就让我们教会他们如何去爱，而他们则提醒我们，为何出发。”
 
-## Talking With ME!
+# Talking With ME!
 - 3074384039@qq.com
 > You can talk me with anything at anytime! I'm gald to learn about!  
 <!--
